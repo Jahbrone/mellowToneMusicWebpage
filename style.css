@@ -298,7 +298,7 @@ footer {
     font-weight: 600;
   }
   .front-page-body {
-    background: url(/mellowToneMusic/img/laneway-bw.jpg);
+    background: url(/img/laneway-bw.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -359,7 +359,7 @@ footer {
     color: black;
   }
   .contact-body {
-    background: url(/mellowToneMusic/img/guitars-bg.jpg);
+    background: url(/img/guitars-bg.jpg);
     background-size: cover;
     background-position: center;
   }

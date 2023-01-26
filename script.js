@@ -13,8 +13,8 @@ document.querySelectorAll(".nav-link").forEach((n) =>
   })
 );
 
-alert("Are you ready to accept the layers into your life?");
-alert("Are you sure, there are many layers involved");
-alert(
-  "If you clicked ok to the last two layers, you now have a virus that gives me all your money. How's that for a layer..."
-);
+// alert("Are you ready to accept the layers into your life?");
+// alert("Are you sure, there are many layers involved");
+// alert(
+//   "If you clicked ok to the last two layers, you now have a virus that gives me all your money. How's that for a layer..."
+// );
